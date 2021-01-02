@@ -2,11 +2,4 @@
 
 # Author Contributions Checklist Form
 
-## Data
-
-
-## Code
-
-
-## Instructions for use
-
+See ACC_Form.pdf.
